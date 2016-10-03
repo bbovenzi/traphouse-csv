@@ -5,6 +5,7 @@
     "node": "6.2.2",
     "npm": "3.9.5"
   },
+  "homepage": "http://bbovenzi.github.io/traphouse-csv",
   "private": true,
   "devDependencies": {
     "react-scripts": "0.6.1"
