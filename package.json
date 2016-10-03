@@ -1,6 +1,10 @@
 {
   "name": "hello-world",
   "version": "0.1.0",
+  "engines": {
+    "node": "6.2.2",
+    "npm": "3.9.5"
+  },
   "private": true,
   "devDependencies": {
     "react-scripts": "0.6.1"
